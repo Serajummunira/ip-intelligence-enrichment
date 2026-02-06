@@ -1,0 +1,6 @@
+ip,net_name,net_handle,startAddress,endAddress,org_name,abuse_emails,country,region,city,latitude_longitude,org_from_geoip
+76.134.76.100,LITTLE-ROCK-16,NET-76-134-0-0-1,76.134.0.0,76.134.127.255,"Comcast Cable Communications, LLC",,US,Arkansas,Little Rock,"34.7465,-92.2896","AS7922 Comcast Cable Communications, LLC"
+50.87.238.185,UNIFIEDLAYER-NETWORK-9,NET-50-87-0-0-1,50.87.0.0,50.87.255.255,Unified Layer,,US,Utah,Provo,"40.2338,-111.6585",AS46606 Unified Layer
+192.168.0.7,PRIVATE-ADDRESS-CBLK-RFC1918-IANA-RESERVED,NET-192-168-0-0-1,192.168.0.0,192.168.255.255,Internet Assigned Numbers Authority,,,,,,
+208.67.222.222,OPENDNS-NET-1,NET-208-67-216-0-1,208.67.216.0,208.67.223.255,"Cisco OpenDNS, LLC",,US,California,San Jose,"37.4087,-121.9406","AS36692 Cisco OpenDNS, LLC"
+216.58.214.14,GOOGLE,NET-216-58-192-0-1,216.58.192.0,216.58.223.255,Google LLC,,NL,North Holland,Amsterdam,"52.3740,4.8897",AS15169 Google LLC
