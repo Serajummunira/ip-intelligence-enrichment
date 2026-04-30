@@ -79,6 +79,8 @@ Provides estimated geographic data:
 2. Pipeline processes each IP:
    - Performs **global RDAP lookup**
    - Performs **GeoIP enrichment (IPinfo API)**
+*****Important Note:** API keys are not included in the repository for security reasons.
+Users must provide their own API keys when running the notebook.
 3. Merges ownership + geolocation data  
 4. Outputs a clean enriched dataset (`.csv`)
 
